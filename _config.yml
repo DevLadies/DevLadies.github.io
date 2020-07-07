@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: DevLadies
+bio: 개발자가 되고 싶은 be 개발자들
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: false
+resume-external: false
+# resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+# url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -53,18 +53,18 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  yujin:
+    name: Yujin
+    bio: 
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    # picture: assets/images/profile.jpg
+    # twitter: johndoe
+  Ssu:
+    name: Sukyeong
+    bio: 
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    # picture: assets/images/james.jpg
+    # twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
