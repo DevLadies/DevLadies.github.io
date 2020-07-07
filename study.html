@@ -21,7 +21,7 @@ pagination:
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
+			{% if post.category == 'Study' %}
 				{% if post.hidden != true %}
 					{% include Study-post.html %}
 				{% endif %}
