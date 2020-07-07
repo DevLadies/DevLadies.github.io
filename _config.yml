@@ -1,23 +1,17 @@
 # main text of home
 name: DevLadies
-bio: 개발자가 되고 싶은 be 개발자들
+bio: 개발자가 되고 싶은 Be 개발자들
 
 # twitter summary info
 description: 
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: false
-resume-external: false
-# resume-url: https://google.com/?q=my+resume
+# external-image: false
+# picture: assets/images/profile.jpg
 
 # url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+your url: https://DevLaides.github.io
 
 permalink: /:title/
 
