@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:
-url: "https://devYurim.github.io"
+url: "https://devladies.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
